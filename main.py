@@ -13,8 +13,8 @@ car_manager = CarManager()
 scoreboard = Scoreboard()
 
 
-# screen.listen()
-# screen.onkeypress(player.go_up,"Up")
+screen.listen()
+screen.onkeypress(player.go_up,"Up")
 
 
 # game_is_on = True
