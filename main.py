@@ -33,7 +33,7 @@ while game_is_on:
             scoreboard.game_over()
             
 
-#     #finish line
+    #finish line
 #     if player.finish():
 #         player.go_to_start()
 #         car_manager.level_up()
