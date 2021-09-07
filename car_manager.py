@@ -3,8 +3,8 @@
 # bottom 50px of the screen (think of it as a safe zone for our little turtle). 
 # Hint: generate a new car only every 6th time the game loop runs.
 
-# from turtle import Turtle
-# import random
+from turtle import Turtle
+import random
 
 # COLORS = ["red", "orange", "yellow", "green", "blue", "purple"]
 # STARTING_MOVE_DISTANCE = 5
