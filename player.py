@@ -1,5 +1,5 @@
 # Create a turtle player that starts at the bottom of the screen and listenfor the
-# #"Up" keypress to move the turtle north.
+#"Up" keypress to move the turtle north.
 
 # from turtle import Turtle
 
