@@ -23,7 +23,7 @@ class Player(Turtle):
         self.goto(STARTING_POSITION)
 
     def finish(self):
-#         if self.ycor() > FINISH_LINE_Y:
-#             return True
-#         else:
-#             return False
+        if self.ycor() > FINISH_LINE_Y:
+            return True
+        else:
+            return False
