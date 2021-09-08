@@ -1,7 +1,7 @@
 # Create a turtle player that starts at the bottom of the screen and listenfor the
 #"Up" keypress to move the turtle north.
 
-# from turtle import Turtle
+from turtle import Turtle
 
 # STARTING_POSITION = (0, -270)
 # MOVE_DISTANCE = 10
