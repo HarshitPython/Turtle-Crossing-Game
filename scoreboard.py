@@ -23,7 +23,7 @@ class Scoreboard(Turtle):
         self.level += 1
         self.update_scoreboard()
     
-#     def game_over(self):
+    def game_over(self):
 #         self.hideturtle()
 #         self.penup()
 #         self.goto(00,00)
